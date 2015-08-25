@@ -1,0 +1,77 @@
+body, td {
+	color: black;
+	background: #cecece;
+	font-family: arial, sans-serif;
+	font-size: 9pt;
+	text-align: left;
+}
+a {
+	color: #063;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover {
+	color: #7c7c7c;
+}
+p {
+}
+td.bezTla {
+	background: #cecece;
+}
+td.ciemneTlo {
+	color: #939393;
+	background: #005000;
+}
+td.ciemneTlo a {
+	color: #009900;
+}
+td.ciemneTlo a:hover {
+	color: #adadad;
+}
+td.jasneTlo {
+	background: #adadad;
+}
+td.menuLewe {
+	color: #cecece;
+	background: #cecece;
+}
+td.menuLeweGora {
+	background: #adadad;
+	font-family: Courier, monospace;
+	font-size: 12pt;
+	font-weight: bold;
+	font-style: italic;
+	line-height: 24pt;
+	text-align: center;
+}
+td.menuLeweNaglowek {
+	color: black;
+	background: #adadad;
+	font-weight: bold;
+}
+td.menuLeweNaglowek a:hover {
+	color: #7c7c7c;
+}
+td.naglowek {
+	color: #005000;
+	background: #adadad;
+	line-height: 26pt;
+	text-align: center;
+}
+td.naglowek a:hover {
+	color: #7c7c7c;
+}
+td.stopka {
+	color: #48ff48;
+	background: #adadad;
+	text-align: center;
+}
+td.stopka a {
+	color: #48ff48;
+}
+td.stopka a:hover {
+	color: #cecece;
+}
+td.wnetrze {
+}
+

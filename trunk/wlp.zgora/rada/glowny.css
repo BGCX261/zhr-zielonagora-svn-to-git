@@ -1,0 +1,77 @@
+body, td {
+	color: black;
+	background: #ccffcc;
+	font-family: arial, sans-serif;
+	font-size: 9pt;
+	text-align: left;
+}
+a {
+	color: #063;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover {
+	color: #3c3;
+}
+p {
+}
+td.bezTla {
+	background: #ccffcc;
+}
+td.ciemneTlo {
+	color: #ccffcc;
+	background: #005000;
+}
+td.ciemneTlo a {
+	color: #009900;
+}
+td.ciemneTlo a:hover {
+	color: #33cc33;
+}
+td.jasneTlo {
+	background: #33ff33;
+}
+td.menuLewe {
+	color: #006600;
+	background: #66ff66;
+}
+td.menuLeweGora {
+	background: #66ff66;
+	font-family: Courier, monospace;
+	font-size: 12pt;
+	font-weight: bold;
+	font-style: italic;
+	line-height: 24pt;
+	text-align: center;
+}
+td.menuLeweNaglowek {
+	color: black;
+	background: #99ff99;
+	font-weight: bold;
+}
+td.menuLeweNaglowek a:hover {
+	color: #3c3;
+}
+td.naglowek {
+	color: #005000;
+	background: #33ff33;
+	line-height: 26pt;
+	text-align: center;
+}
+td.naglowek a:hover {
+	color: #3c3;
+}
+td.stopka {
+	color: #48ff48;
+	background: #005000;
+	text-align: center;
+}
+td.stopka a {
+	color: #48ff48;
+}
+td.stopka a:hover {
+	color: #ccffcc;
+}
+td.wnetrze {
+}
+

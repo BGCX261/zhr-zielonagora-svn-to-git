@@ -1,0 +1,134 @@
+/*MENULEWE*/
+a.menulewe {
+    font-family: "Times New Roman", Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    color: #202020;
+}
+a.menulewe:hover {
+    color: #A0A0A0;
+}
+a.menulewe:link {
+    /*font-weight: bold;*/
+}
+a.menulewe:visited {
+    text-decoration: none;
+}
+
+
+a.menulewe_nowe {
+    color: red;
+    font-family: "Times New Roman", Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+a.menulewe_nowe:hover {
+    color: green;
+}
+a.menulewe_nowe:link {
+    /*font-weight: bold;*/
+}
+a.menulewe_nowe:visited {
+    text-decoration: none;
+}
+
+
+/*STRONA GLOWNA*/
+div.body {
+    font-family: "Times New Roman", Verdana, Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    text-decoration: none;
+    width: 732px;
+    margin: 10px auto;
+    position: relative;
+}
+
+a {
+    color: #202020;
+    text-decoration: none;
+}
+pre {
+    font-size: 12px;
+}
+div.logo {
+    width: 251px;
+    height: 94px;
+    display: block;
+    background: url('./images/designMain_zooolty/t1.jpg') no-repeat;
+}
+div.topRight {
+    position: absolute;
+    left: 251px;
+    top: 0px;
+    width: 509px;
+    height: 94px;
+    display: block;
+    background: url('./images/designMain_zooolty/t2.jpg') no-repeat;
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    padding-top: 15px;
+    font-variant: small-caps;
+}
+div.menuTop {
+    height: 39px;
+    display: block;
+    background: url('./images/designMain_zooolty/m1.jpg') no-repeat;
+}
+
+div.menuCenter {
+    min-height: 268px;
+    width: 163px;
+    display: block;
+    background: url('./images/designMain_zooolty/m2.jpg') repeat;
+    padding-left: 30px;
+}
+div.menuBottom {
+    height: 106px;
+    display: block;
+    background: url('./images/designMain_zooolty/m3.jpg') no-repeat;
+}
+div.tresc {
+    position: absolute;
+    left: 197px;
+    top: 85px;
+    /*min-width: 533px;
+    max-width: 700px;*/
+    width: 513px;
+    min-height: 50px;
+    padding: 10px;
+    display: block;
+    background: white;
+    border: 1px black solid;
+}
+a.zhrBaner, .pobudkaBaner, .jedenProcentBaner {
+    display: block;
+    width: 130px;
+    border: 1px solid black;
+    margin: 5px 0;
+}
+
+a.zhrBaner {
+    height: 50px;
+    background: url('./images/designMain_zooolty/zhrpl_130x50.gif') no-repeat;
+}
+a.pobudkaBaner {
+    height: 29px;
+    background: url('./images/designMain_zooolty/pobudka.gif') no-repeat;
+}
+a.jedenProcentBaner {
+    height: 90px;
+    background: url('./images/designMain_zooolty/1procent.jpg') no-repeat;
+}
+
+table.osobniki {
+    border-collapse: collapse;
+    border: 1px solid #CDCDFF;
+    text-align: center;
+}
+table.osobniki td {
+    border: 1px solid #CDCDFF;
+    text-align: center;
+}
+table.osobniki tr {
+    border: 1px solid #CDCDFF;
+    text-align: center;
+}

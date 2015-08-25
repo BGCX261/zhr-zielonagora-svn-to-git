@@ -1,0 +1,43 @@
+.opis {
+	color: navy;
+	font-weight: bold;
+}
+.komentarz {
+	color: navy;
+}
+.podpis {
+	color: navy;
+	font-weight: bold;
+}
+
+.napisKomentarz {
+	color: navy;
+}
+.napisPodpis {
+	color: navy;
+}
+
+.okienkoKomentarz {
+	background-color: #eef;
+	border: 1px solid #ccf;
+	width: 90px;
+}
+.okienkoPodpis {
+	background-color: #eef;
+	border: 1px solid #ccf;
+	width: 90px;
+}
+.przyciskDodajKomentarz {
+}
+.przyciskKasujKomentarz {
+}
+span.galeriaZdjec {
+	display: block;
+	line-height: 150%;
+}
+span.galeriaZdjec a {
+	color: navy;
+}
+span.galeriaZdjec a:hover {
+	color: #aac;
+}

@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "U�ytkownik: userName"
+AuthUserFile /WHOLE/PATH/TO/DIRECTORY/.htpasswd
+Require user userName
